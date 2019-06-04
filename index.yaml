@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   api-chart:
   - apiVersion: v1
-    created: "2019-06-04T20:12:19.966951+05:30"
+    created: "2019-06-04T21:28:51.69472+05:30"
     description: A Helm chart for Kubernetes
-    digest: d6a097b9601e1750ce7a115a2d1cc08ca9cef274611361038a7dd057880e966f
+    digest: b3916fcd2130b67f9a6054a658870c4eda6a07c88812bbe7232ffacae1d3b145
     name: api-chart
     urls:
     - api-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-04T20:12:19.965275+05:30"
+generated: "2019-06-04T21:28:51.693478+05:30"
