@@ -1,19 +1,46 @@
 apiVersion: v1
 entries:
+  mongodb:
+  - apiVersion: v1
+    appVersion: 4.0.10
+    created: "2019-06-05T01:22:31.767049+05:30"
+    description: NoSQL document-oriented database that stores JSON-like documents
+      with dynamic schemas, simplifying the integration of data in content-driven
+      applications.
+    digest: a85303bde6c8af5ed588e9ead4277250c85c4a1c28fdd23763a80269f13428f5
+    engine: gotpl
+    home: https://mongodb.org
+    icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
+    keywords:
+    - mongodb
+    - database
+    - nosql
+    - cluster
+    - replicaset
+    - replication
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: mongodb
+    sources:
+    - https://github.com/bitnami/bitnami-docker-mongodb
+    urls:
+    - mongodb-0.1.0.tgz
+    version: 0.1.0
   xebia-be:
   - apiVersion: v1
-    created: "2019-06-04T23:59:28.834179+05:30"
+    created: "2019-06-05T01:22:31.768992+05:30"
     description: A Helm chart for Kubernetes
-    digest: 7f8e1094030a1b83b3c990058a8a5649250c69aad2aa635ce8b23dae657127ae
+    digest: 0c4b561993faaf8fde55ac0246f63ea44016fe7c6390199fe90603fe6dd9f1dc
     name: xebia-be
     urls:
     - xebia-be-0.1.0.tgz
     version: 0.1.0
   xebia-fe:
   - apiVersion: v1
-    created: "2019-06-04T23:59:28.834459+05:30"
+    created: "2019-06-05T01:22:31.769613+05:30"
     description: A Helm chart for Kubernetes
-    digest: 77b0850088fc5c6cd666de2cbcca6e13f0f80ef161ed6a071eb295331b3663c1
+    digest: f8da2684f1701b4114c99c67b4c1ca02e8f8775af7ea3fce9c8c23ce06842172
     name: xebia-fe
     urls:
     - xebia-fe-0.1.0.tgz
@@ -21,11 +48,11 @@ entries:
   xebia-mongodb:
   - apiVersion: v1
     appVersion: 4.0.10
-    created: "2019-06-04T23:59:28.838963+05:30"
+    created: "2019-06-05T01:22:31.771783+05:30"
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
-    digest: f8ddb2fc69cc601ee871ac237cf1b05a04cb3c2bcb3caa343ecd5428a80598ff
+    digest: ea9f4ede4d37a2eb100879e3152875a77688259c5dbb04ceb946d432045d7881
     engine: gotpl
     home: https://mongodb.org
     icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
@@ -45,4 +72,4 @@ entries:
     urls:
     - xebia-mongodb-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-04T23:59:28.832676+05:30"
+generated: "2019-06-05T01:22:31.765275+05:30"
