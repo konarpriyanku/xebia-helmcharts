@@ -3,7 +3,7 @@ entries:
   mongodb:
   - apiVersion: v1
     appVersion: 4.0.10
-    created: "2019-06-05T01:22:31.767049+05:30"
+    created: "2019-06-05T02:50:19.416925+05:30"
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
@@ -29,47 +29,20 @@ entries:
     version: 0.1.0
   xebia-be:
   - apiVersion: v1
-    created: "2019-06-05T01:22:31.768992+05:30"
+    created: "2019-06-05T02:50:19.419037+05:30"
     description: A Helm chart for Kubernetes
-    digest: 0c4b561993faaf8fde55ac0246f63ea44016fe7c6390199fe90603fe6dd9f1dc
+    digest: f94201f748e20d51418f5a55b2d08b275bc445eca13e13bae7e1fe9f13240b6d
     name: xebia-be
     urls:
     - xebia-be-0.1.0.tgz
     version: 0.1.0
   xebia-fe:
   - apiVersion: v1
-    created: "2019-06-05T01:22:31.769613+05:30"
+    created: "2019-06-05T02:50:19.419467+05:30"
     description: A Helm chart for Kubernetes
     digest: f8da2684f1701b4114c99c67b4c1ca02e8f8775af7ea3fce9c8c23ce06842172
     name: xebia-fe
     urls:
     - xebia-fe-0.1.0.tgz
     version: 0.1.0
-  xebia-mongodb:
-  - apiVersion: v1
-    appVersion: 4.0.10
-    created: "2019-06-05T01:22:31.771783+05:30"
-    description: NoSQL document-oriented database that stores JSON-like documents
-      with dynamic schemas, simplifying the integration of data in content-driven
-      applications.
-    digest: ea9f4ede4d37a2eb100879e3152875a77688259c5dbb04ceb946d432045d7881
-    engine: gotpl
-    home: https://mongodb.org
-    icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
-    keywords:
-    - mongodb
-    - database
-    - nosql
-    - cluster
-    - replicaset
-    - replication
-    maintainers:
-    - email: containers@bitnami.com
-      name: Bitnami
-    name: xebia-mongodb
-    sources:
-    - https://github.com/bitnami/bitnami-docker-mongodb
-    urls:
-    - xebia-mongodb-0.1.0.tgz
-    version: 0.1.0
-generated: "2019-06-05T01:22:31.765275+05:30"
+generated: "2019-06-05T02:50:19.415618+05:30"
