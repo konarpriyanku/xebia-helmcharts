@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  xebia-be:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2019-06-10T18:27:21.257286+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f43465019e5a4e283657845e0af59a9fea17064db78521be7a77ccfcb96afd32
+    name: xebia-be
+    urls:
+    - xebia-be-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-06-10T18:27:21.255577+05:30"
