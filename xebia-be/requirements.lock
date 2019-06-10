@@ -1,6 +1,0 @@
-dependencies:
-- name: mongodb
-  repository: https://raw.githubusercontent.com/konarpriyanku/xebia-helmcharts/master
-  version: 0.1.0
-digest: sha256:ec70cc5745b033ca0aa035475efdc1643f32d2ed4fffe2b3fc3c3eb358d9d9f2
-generated: "2019-06-05T01:34:01.900655+05:30"

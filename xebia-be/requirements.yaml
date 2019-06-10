@@ -1,4 +1,0 @@
-dependencies:
-- name: mongodb
-  repository: '@xebiagithubchart'
-  version: 0.1.0
