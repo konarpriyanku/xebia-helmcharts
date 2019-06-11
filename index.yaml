@@ -3,7 +3,7 @@ entries:
   db-chart:
   - apiVersion: v1
     appVersion: 4.0.10
-    created: "2019-06-11T09:54:14.231791+05:30"
+    created: "2019-06-11T09:56:48.996563+05:30"
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
@@ -30,20 +30,20 @@ entries:
   xebia-be:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2019-06-11T09:54:14.233502+05:30"
+    created: "2019-06-11T09:56:48.999211+05:30"
     description: A Helm chart for Kubernetes
-    digest: a3fc9632afd806c1875e1d6120ed01c34b626db7ebf149198d81436b07f48f2c
+    digest: d211f558225c8785a16039492f76130f5f3d1bf485b6e8bffe901aaf513224ac
     name: xebia-be
     urls:
     - xebia-be-0.1.0.tgz
     version: 0.1.0
   xebia-fe:
   - apiVersion: v1
-    created: "2019-06-11T09:54:14.234026+05:30"
+    created: "2019-06-11T09:56:48.999725+05:30"
     description: A Helm chart for Kubernetes
     digest: 618f75d13862c07765315779d60ff5cf8b516ce2c98241c6cd4054e3bb903c6a
     name: xebia-fe
     urls:
     - xebia-fe-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-11T09:54:14.229928+05:30"
+generated: "2019-06-11T09:56:48.994654+05:30"
