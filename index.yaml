@@ -3,11 +3,11 @@ entries:
   db-chart:
   - apiVersion: v1
     appVersion: 4.0.10
-    created: "2019-06-11T09:32:43.942594+05:30"
+    created: "2019-06-11T09:35:57.916657+05:30"
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
-    digest: a915f993b9a5dc73eb981d8cdf433145ed81ddd6b3609e66bbd05a5defff36e1
+    digest: 6d5a4a4b4cf4e3352938acfc609e2171a0db8842e9273472abca63ede6f6d27c
     engine: gotpl
     home: https://mongodb.org
     icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
@@ -30,11 +30,11 @@ entries:
   xebia-be:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2019-06-11T09:32:43.943963+05:30"
+    created: "2019-06-11T09:35:57.917852+05:30"
     description: A Helm chart for Kubernetes
     digest: f43465019e5a4e283657845e0af59a9fea17064db78521be7a77ccfcb96afd32
     name: xebia-be
     urls:
     - xebia-be-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-11T09:32:43.94105+05:30"
+generated: "2019-06-11T09:35:57.915276+05:30"
